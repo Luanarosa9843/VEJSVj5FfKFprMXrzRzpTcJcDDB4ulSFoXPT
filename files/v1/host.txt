@@ -1,1 +1,1 @@
-https://api.ojbot.xyz
+https://api.ojbot.xyz/dds
